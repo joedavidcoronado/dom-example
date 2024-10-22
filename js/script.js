@@ -104,7 +104,7 @@ function agregarPersona() {
   //Limpiamos los inputs
   inputNombre.value = "";
   inputEdad.value = "";
-  inputEmail.value = 
+  inputEmail.value = "";
 
   //Actualizamos la tabla de personas para reflejar los cambios en el arreglo
   actualizarLista();
